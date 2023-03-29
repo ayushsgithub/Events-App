@@ -17,12 +17,12 @@ const AboutUsPage = () => {
         straightforward way for attendees to register and buy tickets for the
         event. The registration process should be simple, user-friendly, and
         secure. It should also provide various payment options to accommodate
-        different attendees' preferences. Another important feature of an event
+        different attendees preferences. Another important feature of an event
         page is the ability to communicate with attendees. The page should
         provide an option for attendees to ask questions or provide feedback.
         This can be done through a comments section or a separate contact form.
         Providing a phone number or email address for attendees to reach out to
-        the event organizers can also be helpful. It's also a good idea to
+        the event organizers can also be helpful. Its also a good idea to
         include visuals on the event page. Photos, videos, and graphics can help
         make the event more appealing and give attendees a better idea of what
         to expect. Additionally, social media integration can be a great way to
